@@ -2,7 +2,7 @@ package server
 
 import (
 	"fmt"
-	"github/alwaysLinger/seco/ctx"
+	"github.com/alwaysLinger/seco/ctx"
 	"net"
 	"sync"
 )

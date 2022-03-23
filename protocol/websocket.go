@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"encoding/binary"
 	"errors"
-	"github/alwaysLinger/seco/ctx"
+	"github.com/alwaysLinger/seco/ctx"
 )
 
 const (

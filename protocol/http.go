@@ -3,7 +3,7 @@ package protocol
 import (
 	"bytes"
 	"errors"
-	"github/alwaysLinger/seco/ctx"
+	"github.com/alwaysLinger/seco/ctx"
 	"strconv"
 )
 

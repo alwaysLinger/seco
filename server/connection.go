@@ -2,7 +2,7 @@ package server
 
 import (
 	"fmt"
-	"github/alwaysLinger/seco/protocol"
+	"github.com/alwaysLinger/seco/protocol"
 	"io"
 	"net"
 )
